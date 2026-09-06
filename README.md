@@ -217,9 +217,9 @@ This project demonstrates the complete data analytics workflow:
 
 # 📁 Project Files
 
-### 📊 Power BI Dashboard
+### 📥 Download Power BI Project
 
-`Atliq_Hardware_360_Business_Insights.pbix`
+[⬇️ Atliq_Hardware_360_Business_Insights.pbix](https://app.powerbi.com/view?r=eyJrIjoiOGZmNWNkOTMtNjEzMC00MTYxLThmNWQtYjlmZDJhMzM4MDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 🖼️ Dashboard Screenshots
 
